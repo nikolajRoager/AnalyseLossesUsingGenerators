@@ -266,6 +266,8 @@ Artillery includes many different types of systems, filling different roles, her
 
 ![Ukrainian losses by type](ukr_artillery_losses_type.png)
 
+The system suffering most losses are SPGs: Self propelled guns, which are any type of cannon attached to a vehicle. These are faster to redeploy and set up than towed artillery, and allow for "shoot and scoot" tactics, where the guns set up, fire, and move away before the enemy can return fire. As the loss data suggests, this is not a risk-free tactic.
+
 Both sides are using, and loosing a wide variety of systems to provide support, and even in our age of guided missiles, tube-artillery (big guns) firing shells are still an important factor.
 
 Looking at the caliber of the tube-artillery, we see something very interesting:
