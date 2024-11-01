@@ -1,0 +1,192 @@
+output Russian_Artillery_and_rockets
+column R TowedArtillery : Towed Artillery
+column R SPG            : SPG
+column R ATGM           : ATGM
+column R MRL            : MRL
+column r sam : SAM
+column R SPAA AAGun     : Self propelled AA Guns
+column R TowedAA AAGun  : Towed AA Guns
+
+output Ukrainian_Artillery_and_rockets
+column U TowedArtillery : Towed Artillery
+column U SPG            : SPG
+column U ATGM           : ATGM
+column U MRL            : MRL
+column u sam : SAM
+column U SPAA AAGun     : Self propelled AA Guns
+column U TowedAA AAGun  : Towed AA Guns
+
+output ukr_cal_Artillery
+column U 82mm  : 82 mm
+column U 100mm : 100 mm
+column U 105mm : 105 mm
+column U 120mm : 120 mm
+column U 130mm : 130 mm
+column U 152mm : 152 mm
+column U 155mm : 155 mm
+column U 203mm : 203 mm
+column U 240mm : 240 mm
+
+
+output ukr_air_type
+column U helicopter : (manned) Helicopters
+column U MannedAir plane : (manned) Planes
+column U UAS : UAS
+
+output rus_air_type
+column r helicopter : (manned) Helicopters
+column r MannedAir plane : (manned) Planes
+column r UAS : UAS
+
+output ukr_air
+column U Bomber aircraft  : Bomber
+column U Cas aircraft : CAS 
+column U Fighter aircraft : Fighter
+column U Stealth aircraft : Stealth
+column U Trainer aircraft : Trainer
+column U Transport aircraft : Transport 
+column U Reconnaissance aircraft : Recon
+
+
+output rus_air
+column r Bomber aircraft  : Bomber
+column r Cas aircraft : CAS 
+column r Fighter aircraft : Fighter
+column r Stealth aircraft : Stealth
+column r Trainer aircraft : Trainer
+column r Transport aircraft : Transport 
+column r Reconnaissance aircraft : Recon
+
+output rus_cal_Artillery
+column r 82mm  : 82 mm
+column r 100mm : 100 mm
+column r 105mm : 105 mm
+column r 120mm : 120 mm
+column r 130mm : 130 mm
+column r 152mm : 152 mm
+column r 155mm : 155 mm
+column r 203mm : 203 mm
+column r 240mm : 240 mm
+
+
+output ukr_vehicle
+column u Truck : Trucks
+column u ambulance : Ambulance
+column u vehicle cleanup : mineclearing
+column u vehicle command : mobile commandposts
+column u vehicle engineering : engineering
+column u vehicle recovery : recovery and maintenance
+column u vehicle mrl : mobile rocket launchers
+column u AFV : Other AFVs
+column u spg : SPGs
+column u spaa : Anti Air
+column u imv : IMVs
+column u APC : APCs
+column u MRAP : MRAPs
+column u IFV : IFVs
+column u Tank : Tanks
+
+
+output rus_vehicle
+column r Truck : Trucks
+column r ambulance : Ambulance
+column r vehicle cleanup : mineclearing
+column r vehicle command : mobile commandposts
+column r vehicle engineering : engineering
+column r vehicle recovery : recovery and maintenance
+column r vehicle mrl : mobile rocket launchers
+column r AFV : Other AFVs
+column r spg : SPGs
+column r spaa : Anti Air
+column r imv : IMVs
+column r APC : APCs
+column r MRAP : MRAPs
+column r IFV : IFVs
+column r Tank : Tanks
+
+output ukr_tanks
+column U T-5x : T54 and 55
+column U T-6x : T62 and 64
+column U T-7x : T72
+column U T-8x : T80
+column U West3gen : Western 3rd gen 
+column U T-9x : T90
+
+output rus_tanks
+column r T-5x : T54 and 55
+column r T-6x : T62 and 64
+column r T-7x : T72
+column r T-8x : T80
+column r West3gen : Western 3rd gen
+column r T-9x : T90
+
+output ukr_nations
+column u American : USA 
+column u Australian : Australia
+column u British : UK
+column u Canadian : Canada
+column u Cypriot : Cyprus
+column u Czech : Czechia
+column u Danish : Denmark
+column u Dutch : Netherlands
+column u Emirati : UAE
+column u Estonian : Estonia
+column u Finnish : Finland
+column u French : France
+column u German : Germany
+column u Italian : Italy
+column u Iranian : Iran
+column u Israeli : Israel
+column u Latvian : Latvia
+column u Norwegian : Norway
+column u Polish : Poland
+column u Russian : Russia
+column u Slovak : Slovakia
+column u Spanish : Spain
+column u SouthAfrican : South Africa
+column u SouthKorean : South Korea
+column u Soviet : USSR
+column u Swedish : Sweden
+column u Swiss : Switzerland
+column u Turkish : Turkiye
+column u Ukrainian : Ukraine
+column u Yugoslav : Yugoslavia
+column u Unknown : Unknown origin
+
+
+output rus_nations
+column r American : USA 
+column r Australian : Australia
+column r British : UK
+column r Canadian : Canada
+column r Cypriot : Cyprus
+column r Czech : Czechia
+column r Danish : Denmark
+column r Dutch : Netherlands
+column r Emirati : UAE
+column r Estonian : Estonia
+column r Finnish : Finland
+column r French : France
+column r German : Germany
+column r Italian : Italy
+column r Iranian : Iran
+column r Israeli : Israel
+column r Latvian : Latvia
+column r Norwegian : Norway
+column r Polish : Poland
+column r Russian : Russia
+column r Slovak : Slovakia
+column r Spanish : Spain
+column r SouthAfrican : South Africa
+column r SouthKorean : South Korea
+column r Soviet : USSR
+column r Swedish : Sweden
+column r Swiss : Switzerland
+column r Turkish : Turkiye
+column r Ukrainian : Ukraine
+column r Yugoslav : Yugoslavia
+column r Unknown : Unknown origin
+
+execute
+
+
