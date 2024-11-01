@@ -1,0 +1,2 @@
+.vs/
+./AnalyseLossesUsingGenerators/.venv/
