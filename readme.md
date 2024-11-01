@@ -1,4 +1,4 @@
-﻿A program for analyzing Russian and Ukrainian losses, based on visually confirmed loss-data from the Oryx database
+﻿A program for analyzing Russian and Ukrainian losses, based on visually confirmed loss-data from the Oryx database Using C# and Python
 ============
 This project uses C# to analyze data from the Oryx organization, which is a Dutch non-profit dedicated to recording and publishing loss data from ongoing conflicts ([Source of data](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx)) 
 
@@ -6,6 +6,7 @@ The data is ONLY visually confirmed losses, as such it is a severe undercount of
 
 The data may also be skewed towards recognizable and famous systems, which are more likely to be photographed (Like Himars or Western Tanks) while undercounting less prestigious targets (like transport trucks).
 
+Disregard the fact that githup thinks this is 98% Python, it is not, it is mainly C#.
 
 Lessons learned from this project
 -------------
