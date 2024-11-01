@@ -51,9 +51,11 @@ You can execute all lines in a text file using the `load` command, You can run `
 
 I have made a python program (`plotExample.py`) which takes the data from `load example.txt` and turns them into plots (See the last chapter in this document)
 
-List of all tags
+List of all tags (You can ignore this chapter, if you only intend to use my example)
 -----
-If the tag matches the exact model name, it will also be counted, but I recommend against using that, as the Oryx database sometimes mis-spells the exact model names.
+If the tag matches the exact model name, it will also be counted, but I recommend against using that, as the Oryx database sometimes misspells the exact model names.
+
+The Tags are loaded from the file `definitions.txt` If you can modify the file definitions.txt to add more tags or remove tags.
 
 The different Tags this program support include nations which primarily DEVELOPED the system:
 
@@ -90,8 +92,8 @@ The different Tags this program support include nations which primarily DEVELOPE
 * There are  28 unique models with the tag Unknown
 
 Keep in mind that Soviet equipment was largely manufactured in both Russia and Ukraine.
-Also keep in mind that Western equipment tend to have components from many nations,
-the tag is only the country in which the company (or subsidiary) is headquartered.
+Also keep in mind that Western equipment tends to have components from many nations,
+the tag is only the country in which the company (or subsidiary) is headquartered. It is not possible to track exactly what country donated what western system to Ukraine.
 
 Unknown equipment was so badly damaged that it could not be identified
 
